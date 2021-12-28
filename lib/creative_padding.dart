@@ -3,7 +3,6 @@ library creative_padding;
 import 'package:creative_responsive_values/responsive_widget.dart';
 import 'package:flutter/material.dart';
 import 'padding_values.dart';
-export 'padding_values.dart';
 
 class CreativePadding extends StatelessWidget {
   final Widget child;
